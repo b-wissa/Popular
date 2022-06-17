@@ -1,1 +1,1 @@
-/Users/bassem.wissa/Documents/dummy/pop/popular/buildSrc/build/classes/kotlin/main/Libs.class:/Users/bassem.wissa/Documents/dummy/pop/popular/buildSrc/build/classes/kotlin/main/Versions.class
+/Users/bassemwissa/Documents/umi/android/Popular/buildSrc/build/classes/kotlin/main/Libs.class:/Users/bassemwissa/Documents/umi/android/Popular/buildSrc/build/classes/kotlin/main/Versions.class

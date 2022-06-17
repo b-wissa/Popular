@@ -16,7 +16,7 @@ interface RepositoriesApi {
         @Query("sort") sort: String
     ): Single<PopularRepositoriesResponse>
 
-    //@Headers("Authorization: token ADD_YOUR_TOKEN_HERE")
+    @Headers("Authorization: token TODO your token here")
     @GET("repositories/{id}")
     fun getRepositoryDetailsById(@Path("id") id: String): Single<PopularRepositoriesResponse.ApiRepository>
 }
